@@ -26,6 +26,14 @@
  <br><br><br>
  <a href="https://github.com/KeonhoChu"><img align="center" style="height:250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeonhoChu&layout=compact&theme=nord&hide_border=true"  /></a> 
  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
  <br><br><br>
   
   <!-- GitHub Views Badge -->
@@ -45,22 +53,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeonhoChu&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width="99%" />
-</a>
-<br><br><br>
-
-<a href="https://github.com/KeonhoChu"><img align="center" style="height:250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeonhoChu&layout=compact&theme=nord&hide_border=true"  /></a>
-
-<br><br><br>
-
-<a href="https://github.com/KeonhoChu"><img align="center" style="height:250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeonhoChu&layout=compact&theme=nord&hide_border=true"  /></a>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
