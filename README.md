@@ -24,7 +24,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeonhoChu&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width="99%" />
   </a>
  <br><br><br>
- <a href="https://github.com/KeonhoChu"><img align="center" style="height:220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeonhoChu&layout=compact&theme=nord&hide_border=true"  /></a> 
+ <a href="https://github.com/KeonhoChu"><img align="center" style="height:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeonhoChu&layout=compact&theme=nord&hide_border=true"  /></a> 
  <br><br><br>
   
   <!-- GitHub Views Badge -->
