@@ -34,7 +34,7 @@
 | 2023.09.01 ~ 2023.12.30 | A predictive program for future norovirus outbreaks based on changes in the timing of norovirus epidemics due to the coronavirus pandemic | Data science & Predictive Modelling | / |
 | 2023.09.01 ~ 2023.12.30 | Analysis of Domestic Infectious Disease Statistics Using Foreign Resident Residence Status Data | Data Analysis | / |
 | 2023.12.06 ~ 2023.12.12 | Oral Image Synthesis Data For Artificial Intelligence Learning Project in SNUDH          | Data prep & Modelling        | 3rd (우수상) |
-| 2024.02.01 ~ 2024.02.26 | MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발                                    | Data science & Predictive Modelling | final (59위/844팀 중) |
+| 2024.02.01 ~ 2024.02.26 | MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 in LG                                    | Data science & Predictive Modelling | final (59위/844팀 중) |
 | 2024.03.19 ~ Present   | Chatbot Using LLM model for Digital Therapeutics                                                | AI Research                            | /                 |
 
 
