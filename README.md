@@ -28,7 +28,6 @@
 
 ## 🏆 Project & Achievements
 | Year                   | Project                                                                                           | Position                                | etc.            |
-
 |-----------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------|-----------------|
 | 2023.09.01 ~ 2023.12.30 | Infectious Disease Pandemic Outcome Prediction Project                             | Data science & Predictive Modelling | /                 |
 | 2023.09.01 ~ 2023.12.30 | Dengue Fever Outcome Prediction Program based on Domestic Travelers' Itineraries | Data science & Predictive Modelling | /                 |
