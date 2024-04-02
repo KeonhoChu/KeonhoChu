@@ -6,6 +6,16 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Keonho.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
   
   <br><br><br>
+  
+  <!-- GitHub Stats and GitHub Streak (Horizontal Alignment) -->
+  <div style="display: flex; flex-direction: row;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=KeonhoChu&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width="48%" />
+    </a>
+    <a href="https://streak-stats.demolab.com/?user=KeonhoChu&theme=material-palenight&border=000000">
+      <img src="https://streak-stats.demolab.com/?user=KeonhoChu&theme=material-palenight&border=000000" width="51%" />
+    </a>
+  </div>
 
 ## 👨‍💼 Employment History
 
@@ -58,15 +68,7 @@
 e-mail: gunho1358@naver.com
 
   
-  <!-- GitHub Stats and GitHub Streak (Horizontal Alignment) -->
-  <div style="display: flex; flex-direction: row;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=KeonhoChu&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width="48%" />
-    </a>
-    <a href="https://streak-stats.demolab.com/?user=KeonhoChu&theme=material-palenight&border=000000">
-      <img src="https://streak-stats.demolab.com/?user=KeonhoChu&theme=material-palenight&border=000000" width="51%" />
-    </a>
-  </div>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeonhoChu&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
