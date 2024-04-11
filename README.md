@@ -2,7 +2,8 @@
   <br><br><br>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED3&size=60&center=true&vCenter=true&width=500&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Keonho.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-  
+
+'''  
   <br><br><br>
   
   <!-- GitHub Stats and GitHub Streak (Horizontal Alignment) -->
@@ -14,7 +15,7 @@
       <img src="https://streak-stats.demolab.com/?user=KeonhoChu&theme=material-palenight&border=000000" width="51%" />
     </a>
   </div>
-
+'''
 ## 👨‍💼 Employment History
 
 | Year   |  Company   |  Position   |
