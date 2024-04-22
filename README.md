@@ -10,7 +10,7 @@
 |---|---|---|
 | 2022.04.05 ~ 2022.11.30 | Worked at TKMT | R&D |
 | 2023.08.09 ~ 2023.12.30 | Worked at KDCA | Data Analyst |
-| 2024.03.18 ~ Present |  Currently working at BNO_DR.Coach | AI R&D  |
+| 2024.03.18 ~ Present |  Currently working at BNO | AI R&D  |
 
 
 ## 🏆 Project & Achievements
