@@ -17,7 +17,7 @@
 | Year                   | Project                                                                                           | Position                                | etc.            |
 |-----------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------|-----------------|
 | 2023.09.01 ~ 2023.12.30 | Infectious Disease Pandemic Outcome Prediction Project                             | Data science & Predictive Modelling | /                 |
-| 2023.09.01 ~ 2023.12.30 | Dengue Fever Outcome Prediction Program based on Domestic Travelers' Itineraries | Data science & Predictive Modelling | /                 |
+| 2023.09.01 ~ 2023.12.30 | Analysis of the frequency of dengue fever among domestic travelers | Data science & Predictive Modelling | /                 |
 | 2023.09.01 ~ 2023.12.30 | A predictive program for future norovirus outbreaks based on changes in the timing of norovirus epidemics due to the coronavirus pandemic | Data science & Predictive Modelling | / |
 | 2023.09.01 ~ 2023.12.30 | Analysis of Domestic Infectious Disease Statistics Using Foreign Resident Residence Status Data | Data Analysis | / |
 | 2023.12.06 ~ 2023.12.12 | [Oral Image Synthesis Data For Artificial Intelligence Learning Project in SNUDH](https://github.com/KeonhoChu/SNUDH---AI)          | Data prep & Modelling        | 3rd (우수상) |
