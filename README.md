@@ -6,13 +6,14 @@
 
 
 
-### 📞 Contact Me
-e-mail: gunho1358@naver.com
+## More information
+ <a href="https://keonhochu.github.io">Resume</a>
+
+ <a href="https://keonhochu.github.io/hyde">Blog</a>
 
   
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KeonhoChu&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **KeonhoChu/KeonhoChu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.11
 
