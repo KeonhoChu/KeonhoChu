@@ -1,8 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-KeonhoChu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keonho-chu-83936a29b//)](https://www.linkedin.com/in/keonho-chu-83936a29b/)
-[![Instagram Badge](https://img.shields.io/badge/-@__chuuuuoooo-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/__chuuuuoooo/)](https://www.instagram.com/__chuuuuoooo/)
-[![Linkedin Badge](https://img.shields.io/badge/blog-green?style=flat-square&logo=appveyor&logoColor=white&link=keonhochu.github.io/hyde/)](keonhochu.github.io/hyde/)
-[![Linkedin Badge](https://img.shields.io/badge/Resume-whitegreen?style=flat-square&logo=appveyor&logoColor=white&link=keonhochu.github.io/)](keonhochu.github.io/)
-
 
 <h2 align="left">
  <abc>
