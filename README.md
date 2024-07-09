@@ -9,17 +9,10 @@
 
 <div>
     
-### 💁‍♂️ Introduction
-안녕하세요! **주니어 AI 엔지니어 추건호**입니다.
-
 <img src="https://img.shields.io/badge/Email-ckh4343@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:ckh4343@gmail.com"/> 
 <a href="https://www.linkedin.com/in/%EA%B1%B4%ED%98%B8-%EC%B6%94-83936a29b/overlay/browsemap-recommendations/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://keonhochu.github.io/"><img src="https://img.shields.io/badge/GitHub.io-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/__chuuuuoooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-
-_I am currently working on LLM Ai Engineer at Bionutrion ._
-
-[![Keonho's GitHub stats](https://github-readme-stats.vercel.app/api?username=keonhoChu&show_icons=true&theme=radical)](https://github.com/keonhoChu)
 
 ### 💻 Work & Activities
 - **Bionutrion**: LLM AI Engineer (`2024.04 - 현재`)
@@ -29,6 +22,32 @@ _I am currently working on LLM Ai Engineer at Bionutrion ._
 ### 📚 Skills
 - **Programming Languages**:
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+- **Tools**:
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Keras-FF3333?style=flat-square&logo=keras&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Scikit--Learn-FFCC33?style=flat-square&logo=scikit-learn&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Pandas-5C5CFF?style=flat-square&logo=pandas&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Numpy-3366FF?style=flat-square&logo=numpy&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Matplotlib-003366?style=flat- square&logo=matplotlib&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Seaborn-6699FF?style=flat-square&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Jupyter-FF9933?style=flat-square&logo=jupyter&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Tableau-FF6600?style=flat-square&logo=tableau&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Git-FF3300?style=flat-square&logo=git&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Docker-3399FF?style=flat-square&logo=docker&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft- azure&logoColor=white"/>
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MySQL-006699?style=flat-square&logo=mysql&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Django-006600?style=flat-square&logo=django&logoColor=white"/>
+   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white"/>
+   <img src="https://img.shields.io/badge/GPT--4-0096FF?style=flat-square&logo=openai&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Hugging%20Face-FFDD00?style=flat-square&logo=hugging-face&logoColor=white"/>
+
 - **Technologies**:
     - Machine Learning
     - Data Analysis
@@ -42,13 +61,13 @@ _I am currently working on LLM Ai Engineer at Bionutrion ._
     - Analysis of Domestic Infectious Disease Statistics
   
 - **Open Projects**:
-    - **Dr.Coach (Digital Therapeutics DTx)**: [Website](#)
-    - **Epson Innovation Challenge 2024**: On Going Project
-    - **Oral Image Synthesis Data For Artificial Intelligence Learning Project in SNUDH**: [Website](#)
-    - **Brain Tumor Segmentation using U-Net in CBNUH**: [Website](#)
-    - **Sleeping Project(Lite Right) - K-digital Hackathon**: [Website](#)
-    - **Development of a Predictive Model for B2B Business Opportunity Creation based on MQL Data in LG**: [Website](#)
-    - **2024 Digital Heritage Festa AI Heritage Competition Entry Description**: [Website](#)
+    - **Dr.Coach (Digital Therapeutics DTx)**
+    - **Epson Innovation Challenge 2024**
+    - **Oral Image Synthesis Data For Artificial Intelligence Learning Project in SNUDH**
+    - **Brain Tumor Segmentation using U-Net in CBNUH**
+    - **Sleeping Project(Lite Right) - K-digital Hackathon**
+    - **Development of a Predictive Model for B2B Business Opportunity Creation based on MQL Data in LG**
+    - **2024 Digital Heritage Festa AI Heritage Competition Entry Description**
 
 ### 🎓 Education
 - **Konkuk University**: BS Biomedical Engineering (`2015.03 - 2021.02`)
