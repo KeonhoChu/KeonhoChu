@@ -59,6 +59,8 @@
       
 
 ### 📂 Projects
+![영문_가로형_2-removebg-preview](https://github.com/KeonhoChu/KeonhoChu/assets/130969566/35dc59fb-4367-4500-9438-6d0927d248b7)
+
 - **Closed Project in KDCA**:
 
     - Infectious Disease Pandemic Outcome Prediction Project
@@ -66,7 +68,6 @@
     - Predictive Program for Future Norovirus Outbreaks
     - Analysis of Domestic Infectious Disease Statistics
       
-![영문_가로형_2-removebg-preview](https://github.com/KeonhoChu/KeonhoChu/assets/130969566/35dc59fb-4367-4500-9438-6d0927d248b7)
 
 - **Open Projects**:
     - **Dr.Coach (Digital Therapeutics DTx)**
