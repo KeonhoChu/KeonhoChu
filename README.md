@@ -66,8 +66,8 @@
     - Predictive Program for Future Norovirus Outbreaks
     - Analysis of Domestic Infectious Disease Statistics
       
-  <img src="https://i.namu.wiki/i/--96jc5SQudxYiDltJTGvCJkapfiy0alX9OwPgtDjctMFmsYNR7v1tOZ0sPHrCrZeF4UhqDVhHKRzh5JmzyciQ.svg" alt="Korea Disease Control" width="200">
-  
+![영문_가로형_2-removebg-preview](https://github.com/KeonhoChu/KeonhoChu/assets/130969566/35dc59fb-4367-4500-9438-6d0927d248b7)
+
 - **Open Projects**:
     - **Dr.Coach (Digital Therapeutics DTx)**
     - **Epson Innovation Challenge 2024**
