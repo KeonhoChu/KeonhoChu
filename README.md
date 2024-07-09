@@ -8,6 +8,8 @@
 </h2> 
 
 <div>
+<img width="1010" alt="스크린샷 2024-07-09 20 20 48" src="https://github.com/KeonhoChu/KeonhoChu/assets/130969566/3897a2c0-900c-4433-8045-937d2f62e366">
+
     
 <img src="https://img.shields.io/badge/Email-ckh4343@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:ckh4343@gmail.com"/> 
 <a href="https://www.linkedin.com/in/%EA%B1%B4%ED%98%B8-%EC%B6%94-83936a29b/overlay/browsemap-recommendations/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
