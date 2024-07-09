@@ -51,7 +51,10 @@
 - **Technologies**:
     - Machine Learning
     - Data Analysis
-    - LLM Development
+    - Data Science
+    - Ai Engineering
+    - Prompt Engineering
+      
 
 ### 📂 Projects
 - **Closed Project in KDCA**:
