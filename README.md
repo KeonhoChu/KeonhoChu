@@ -55,10 +55,13 @@
 
 ### 📂 Projects
 - **Closed Project in KDCA**:
+
     - Infectious Disease Pandemic Outcome Prediction Project
     - Analysis of the Frequency of Dengue Fever Among Domestic Travelers
     - Predictive Program for Future Norovirus Outbreaks
     - Analysis of Domestic Infectious Disease Statistics
+      
+  <img src="https://i.namu.wiki/i/--96jc5SQudxYiDltJTGvCJkapfiy0alX9OwPgtDjctMFmsYNR7v1tOZ0sPHrCrZeF4UhqDVhHKRzh5JmzyciQ.svg" alt="Korea Disease Control" width="200">
   
 - **Open Projects**:
     - **Dr.Coach (Digital Therapeutics DTx)**
