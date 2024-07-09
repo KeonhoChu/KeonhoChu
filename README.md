@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/__chuuuuoooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 ### 💻 Work & Activities
-- **Bionutrion**: LLM AI Engineer (`2024.04 - 현재`)
+- **Bionutrion**: LLM AI Engineer (`2024.03 - Current`)
 - **Korea Disease Control and Prevention Agency**: Data Analyst Intern (`2023.11 - 2024.01`)
 - **LG Aimers/Data Intelligence**: AI Researcher (`2024.01 - 2024.02`)
 
