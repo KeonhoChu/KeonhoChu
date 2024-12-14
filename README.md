@@ -18,7 +18,7 @@
 
 ### 💻 Work & Activities
 - **Bionutrion**: LLM AI Engineer (`2024.03 - Current`)
-- **Korea Disease Control and Prevention Agency**: Data Analyst Intern (`2023.11 - 2024.01`)
+- **Korea Disease Control and Prevention Agency**: Data Analyst Intern (`2023.08 - 2024.01`)
 - **LG Aimers/Data Intelligence**: AI Researcher (`2024.01 - 2024.02`)
 
 ### 📚 Skills
