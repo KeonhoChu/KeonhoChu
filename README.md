@@ -7,6 +7,7 @@
  </abc>
 </h2> 
 
+<!--
 <div>
 <img width="1010" alt="스크린샷 2024-07-09 20 20 48" src="https://github.com/KeonhoChu/KeonhoChu/assets/130969566/3897a2c0-900c-4433-8045-937d2f62e366">
 
@@ -115,3 +116,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
