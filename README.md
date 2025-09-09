@@ -1,4 +1,4 @@
-<h1 align="center">Keon-Ho Chu</h1>
+
 
 <p align="center">
   <b>AI Engineer | LIG System AI Tech Research Lab</b><br/>
