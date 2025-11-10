@@ -6,9 +6,8 @@
 
 
 ---
-I’m passionate about creating impactful services⭐ powered by AI.
 
-### Work Experience
+### Work Experience⭐
 - **LIG System**, AI Software Engineer  
 - **Bionutrion** (Bundang Seoul Nat'l Univ Hospital), AI Research Engineer  
 - **Korea Disease Control Agency**, Machine Learning Engineer
